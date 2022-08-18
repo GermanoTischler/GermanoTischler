@@ -1,5 +1,4 @@
 ### Hi there 👋
-##
 
 - 🌱 I’m currently learning Web Development
 - 😄 Pronouns: He/Him
@@ -13,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoTischler&layout=compact&langs_count-16&theme=midnight-purple"/>
 </div>
   
- ---
+##
 <!--============================== LANGUAGES ==============================-->
  
 ### Used languages 
