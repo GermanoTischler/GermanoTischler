@@ -7,7 +7,6 @@
 <!--============================== STATISTICS ==============================-->
 
 <div style="display: inline_block"> <!--<div align="center">-->
-  <a href="https://github.com/GermanoTischler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GermanoTischler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoTischler&layout=compact&langs_count-16&theme=midnight-purple"/>
 </div>
@@ -28,7 +27,7 @@
   
 <div>
   <a href="https://www.instagram.com/g.tischlxr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/germano-tischler-25812b248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/germanotischler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:germanotischler@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 </div>
   
