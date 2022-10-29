@@ -26,14 +26,14 @@
   <img align="center" alt="NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="VSCode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <br/> <br/>
+  <img align="center" alt="Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <br/> 
+  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://i.imgur.com/51ccTSo.gif"> <br/>
   <img align="center" alt="AutoCAD" height="45" width="45" src="https://www.pngkey.com/png/full/444-4449610_autodesk-autocad-icon-autocad-2017-logo-vector.png">
   <img align="center" alt="Revit" height="45" width="45" src="https://www.focusconhecimento.com.br/wp-content/uploads/2020/12/Revit-2015-a.png">
   <!--<img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">-->
   <!--<img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">-->
   <!--<img align="center" alt="C++" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">-->
   <!--<img align="center" alt="Blender" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">-->
-  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://i.imgur.com/51ccTSo.gif">
 </div>
   
   ##
