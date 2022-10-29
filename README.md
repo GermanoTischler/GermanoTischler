@@ -26,8 +26,9 @@
   <img align="center" alt="NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="VSCode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="right" alt="gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
+  <img align="center" alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <br/>
+  <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
 </div>
   
   ##
