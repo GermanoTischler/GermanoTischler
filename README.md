@@ -7,7 +7,7 @@
 <!--============================== ANALYTICS ==============================-->
 
 <div align="center"> <!--<div style="display: inline_block">-->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GermanoTischler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GermanoTischler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoTischler&layout=compact&langs_count-16&theme=midnight-purple"/>
 </div>
   
