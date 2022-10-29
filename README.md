@@ -6,9 +6,9 @@
 ---
 <!--============================== ANALYTICS ==============================-->
 
-<div align="center"> <!--<div style="display: inline_block">-->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GermanoTischler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoTischler&layout=compact&langs_count-16&theme=midnight-purple"/>
+<div align="center"> <!--<div style="display: inline_block">  height="180em" -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GermanoTischler&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoTischler&layout=compact&langs_count-16&theme=midnight-purple">
 </div>
   
 ##
@@ -31,7 +31,7 @@
   <!--<img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">-->
   <!--<img align="center" alt="C++" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">-->
   <!--<img align="center" alt="Blender" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">-->
-  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
+  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://i.imgur.com/51ccTSo.gif">
 </div>
   
   ##
