@@ -15,11 +15,12 @@
 <!--============================== LANGUAGES ==============================-->
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ger-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ger-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ger-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ger-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title:"React">
-  <img align="right" alt="Ger-gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+  <img align="right" alt="gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
 </div>
   
   ##
