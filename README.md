@@ -19,7 +19,7 @@
   <img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="right" alt="gif" height="160" style="border-radius:50px;" src="https://camo.githubusercontent.com/95baa45858b05db0a876a21c6785ab1967dac2b62c1f5d4b5367937073d251fa/68747470733a2f2f692e696d6775722e636f6d2f3531636354536f2e676966">
 </div>
   
