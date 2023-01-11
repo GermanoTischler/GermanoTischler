@@ -29,7 +29,7 @@
   <img align="center" alt="Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <br/> 
   <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://i.imgur.com/51ccTSo.gif"> <br/>
   <img align="center" alt="AutoCAD" height="45" width="45" src="https://www.pngkey.com/png/full/444-4449610_autodesk-autocad-icon-autocad-2017-logo-vector.png">
-  <img align="center" alt="Revit" height="45" width="45" src="https://www.focusconhecimento.com.br/wp-content/uploads/2020/12/Revit-2015-a.png">
+  <img align="center" alt="Revit" height="58" width="58" src="https://www.ambient-it.net/wp-content/uploads/2018/03/Revit-logo175.png">
   <!--<img align="center" alt="Reative Native" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>-->
   <!--<img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">-->
   <!--<img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">-->
