@@ -1,9 +1,22 @@
+<!--============================== INTRO ==============================-->
+
 ### Hi there 👋
+<img align="right" alt="Gif" height="160" style="border-radius:50;" src="https://i.imgur.com/51ccTSo.gif">
 
-- 🌱 I’m currently learning Web Development
-- 😄 Pronouns: He/Him
+About me: <img alt="Gif" height="35" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> 
 
----
+• 🔭 I’m looking for a job as a developer! <br>
+• 🌱 Currently learning C#. <br>
+• ⚡ Fun Fact: Unfortunately I can't drink too much coffe  <br>
+• 😄 He/Him - 🇧🇷
+
+<!--============================== SOCIAL MEDIA ==============================-->
+  
+  <a href = "mailto:germanotischler@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/germanotischler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/g.tischlxr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+##
 <!--============================== ANALYTICS ==============================-->
 
 <div align="center"> <!--<div style="display: inline_block">-->
@@ -12,37 +25,9 @@
 </div>
   
 ##
-<!--============================== LANGUAGES ==============================-->
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS3" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="React" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="NodeJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <br/> 
-  <img align="right" alt="Gif" height="160" style="border-radius:50px;" src="https://i.imgur.com/51ccTSo.gif"> <br/>
-  <img align="center" alt="AutoCAD" height="45" width="45" src="https://www.pngkey.com/png/full/444-4449610_autodesk-autocad-icon-autocad-2017-logo-vector.png">
-  <img align="center" alt="Revit" height="58" width="58" src="https://www.ambient-it.net/wp-content/uploads/2018/03/Revit-logo175.png">
-  <!--<img align="center" alt="Reative Native" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>-->
-  <!--<img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">-->
-  <!--<img align="center" alt="C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">-->
-  <!--<img align="center" alt="C++" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">-->
-  <!--<img align="center" alt="Blender" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">-->
-</div>
-  
-  ##
-<!--============================== SOCIAL MEDIA ==============================-->
-  
-<div>
-  <a href="https://www.instagram.com/g.tischlxr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/germanotischler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:germanotischler@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-</div>
+Tools 🛠️
+<!--============================== TOOLS ==============================-->
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,docker,mysql,postgres,prisma,nodejs,git,vscode,figma,autocad,androidstudio,express,postman," />
+<!-- React Native, C#, Blender-->
   
