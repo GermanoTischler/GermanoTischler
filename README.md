@@ -29,5 +29,5 @@ Tools 🛠️
 <!--============================== TOOLS ==============================-->
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,docker,mysql,postgres,prisma,nodejs,git,vscode,figma,autocad,androidstudio,express,postman," />
-<!-- React Native, C#, Blender-->
+<!-- React Native, C#, Blender, Jest-->
   
