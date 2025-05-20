@@ -5,8 +5,7 @@
 
 About me:
 
-• 🔭 I’m looking for a job as a developer! <br>
-• 🌱 Currently learning C#. <br>
+• 🌱 Currently learning C. <br>
 • ⚡ Fun Fact: Unfortunately I can't drink too much coffe  <br>
 • 😄 He/Him - 🇧🇷
 
