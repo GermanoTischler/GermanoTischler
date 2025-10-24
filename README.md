@@ -2,9 +2,9 @@
 ### Hi there 👋
 <img align="right" alt="Gif" height="160" style="border-radius:50;" src="https://i.imgur.com/51ccTSo.gif">
 
-
+<br>
 • ⚡ Fun Fact: Unfortunately I can't drink too much coffe  <br>
-
+<br>
 
 <!--============================== SOCIAL MEDIA ==============================-->
   
